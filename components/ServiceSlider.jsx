@@ -17,27 +17,28 @@ const serviceData = [
   {
     Icon: RxCrop,
     title: "Branding",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description:
+      "Crafting visual identities, brand strategies—global tech excellence. Welcome, shaping future.",
   },
   {
     Icon: RxPencil2,
-    title: "Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "CONTENT CREATION",
+    description: "Tailored content strategy: Key in evolving digital landscape—crafted by experts.",
   },
   {
     Icon: RxDesktop,
-    title: "Development",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "DIGITAL MARKETING",
+    description: "Enhance SEO, lead gen, social ads, email campaigns—tailored comprehensive solutions. ",
   },
   {
     Icon: RxReader,
-    title: "Copywriting",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "UI/UX DESIGN",
+    description: "Website: Vital hub for marketing; design tech advances drive effectiveness.",
   },
   {
     Icon: RxRocket,
-    title: "SEO",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "WEB DEVELOPMENT",
+    description: "Crafting websites, web strategies—global tech excellence. Welcome, shaping future.",
   },
 ];
 

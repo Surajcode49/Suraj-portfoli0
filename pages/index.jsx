@@ -20,25 +20,27 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Welcome to my portfolio!👋 <br /> This Is{" "}
-            <span className="text-accent">Suraj Prasad</span>
+            Welcome to
+            <br /> <span className="text-accent">NowNow</span>
           </motion.h1>
 
           {/* subtitle */}
           <motion.p
-            variants={fadeIn("down", 0.3)}
+            variants={fadeIn("down", 0.5)}
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
+            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 font-bold font-extrabold"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Terse Job Media Technologies are Business Solutions Providers, we
+            work with seasoned Strategists and marketers who excel in their
+            fields. We develop intelligent, original digital strategies that
+            dismantle technological boundaries, between sales, marketing and
+            customer success. We coordinate business activities Related with
+            Brand Marketing and Sales Structures.
           </motion.p>
 
-          {/* btn */}
+          {/* btn */}a
           <div className="flex justify-center xl:hidden relative">
             <ProjectsBtn />
           </div>

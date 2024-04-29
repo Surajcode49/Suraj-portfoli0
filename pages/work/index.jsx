@@ -20,7 +20,7 @@ const Work = () => {
               exit="hidden"
               className="h2 xl:mt-12"
             >
-              My work <span className="text-accent">.</span>
+              Our work <span className="text-accent">.</span>
             </motion.h2>
             <motion.p
               variants={fadeIn("up", 0.4)}
@@ -29,8 +29,13 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              
+Pacific Overseas specializes in MERN stack development, offering innovative solutions tailored to client needs. Our portfolio showcases diverse projects like the AI Sikho Android app, crafted with MERN technology. Diraly stands as a testament to our proficiency in PHP and Laravel, while Nexus exemplifies our expertise in WordPress. Additionally, Kapota illustrates our proficiency in Shopify, and Tjmedia highlights our mastery of Three.js.
+
+
+
+
+
             </motion.p>
           </div>
 

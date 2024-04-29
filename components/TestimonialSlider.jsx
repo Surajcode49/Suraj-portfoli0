@@ -10,17 +10,18 @@ import "swiper/css/pagination";
 const testimonialData = [
   {
     image: "/t-avt-1.png",
-    name: "Anne Smith",
-    position: "Customer",
+    name: "Zahroof ZEE Mohamed",
+    position: "President, Founder Zahroof Walves",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Brilliant Designing team which delivered premium quality and re- liability while working with them.",
   },
   {
     image: "/t-avt-2.png",
-    name: "Jane Doe",
-    position: "Customer",
+    name: "Lonnie Park",
+    position:
+      "Multi-Grammy Award winner, Billboard charting Producer, Composer, Performer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Have enjoyed working with Tanuj for sure, Personal attention & desire for customer satistaction are evident right out of the gate",
   },
   {
     image: "/t-avt-3.png",

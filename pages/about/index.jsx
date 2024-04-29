@@ -23,7 +23,7 @@ import { fadeIn } from "../../variants";
 //  data
 export const aboutData = [
   {
-    title: "skills",
+    title: "TECH-STACK",
     info: [
       {
         title: "Web Development",
@@ -41,40 +41,50 @@ export const aboutData = [
         title: "UI/UX Design",
         icons: [FaFigma, SiAdobexd, SiAdobephotoshop],
       },
+      
     ],
   },
   {
-    title: "awards",
+    title: "PARTNERS",
     info: [
       {
-        title: "Webby Awards - Honoree",
+        title: "Google",
         stage: "2011 - 2012",
       },
       {
-        title: "Adobe Design Achievement Awards - Finalist",
+        title: "Linkedin",
+        stage: "2009 - 2010",
+      },
+      {
+        title: "HubSpot",
+        stage: "2009 - 2010",
+      },
+      {
+        title: "Meta",
         stage: "2009 - 2010",
       },
     ],
   },
+
   {
-    title: "experience",
+    title: "MISSION",
     info: [
       {
-        title: "UX/UI Designer - XYZ Company",
-        stage: "2012 - 2023",
+        title: "Web Development - ABC University, LA, CA",
+        stage: "2011",
       },
       {
-        title: "Web Developer - ABC Agency",
-        stage: "2010 - 2012",
+        title: "Computer Science Diploma - AV Technical Institute",
+        stage: "2009",
       },
       {
-        title: "Intern - DEF Corporation",
-        stage: "2008 - 2010",
+        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
+        stage: "2006",
       },
     ],
   },
   {
-    title: "credentials",
+    title: "VISSION",
     info: [
       {
         title: "Web Development - ABC University, LA, CA",

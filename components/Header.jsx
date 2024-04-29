@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import img1 from "../public/TJ.jpeg";
 
 import Socials from "../components/Socials";
 
@@ -11,10 +12,10 @@ const Header = () => {
           {/* logo */}
           <Link href="/">
             <Image
-              src="/logo.svg"
-              alt="logo"
-              width={220}
-              height={48}
+              src={img1}
+              alt="Suraj Prasad"
+              width={40}
+              height={40}
               priority
             />
           </Link>
