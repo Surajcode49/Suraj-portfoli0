@@ -6,7 +6,7 @@ const Avatar = () => {
       <Image
         src="/now now ink logo (1)-1.png"
         alt="avatar"
-        width={400}
+        width={500}
         height={300}
         className="translate-z-0 w-full h-full"
       />
